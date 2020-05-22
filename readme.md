@@ -1,6 +1,7 @@
 Poner esto:
 
 [merge]
+
     tool = unityyamlmerge
 
 [mergetool "unityyamlmerge"]
@@ -12,4 +13,4 @@ Con tu ruta a UnityYAMLMerge.exe
 
 en
  
- .git(oculto)/config de donde esté el projecto
+ .git(oculto)/config de donde esté el proyecto
